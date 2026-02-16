@@ -1,0 +1,405 @@
+---
+title: "*In vitro* expression - Nipah Virus Vaccine Concept"
+output:
+  html_document:
+    theme: flatly       
+    highlight: tango
+    toc: true
+    toc_float: true
+    number_sections: true
+    df_print: paged
+    self_contained: true
+    css: "custom.css"
+---
+
+
+
+
+<br>
+
+# Case Overview
+
+---
+
+**Nipah Virus Vaccine Concept**
+
+Nipah virus infection is a zoonotic disease caused by an RNA(-) virus of the genus Henipavirus, associated with acute encephalitis, respiratory involvement, and high mortality in humans. Vaccine research targets the viral G glycoprotein to induce immune responses that block receptor binding and disease progression. In *mRNA* design, alpha-globin (*HBA1/HBA2*) UTRs are used to enhance stability and sustain protein expression in human cells.
+
+
+
+---
+
+<br>
+
+# Project Overview
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("1.bmp")
+
+```
+
+
+
+---
+
+<br>
+
+# Design Workflow
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("2.bmp")
+
+```
+
+
+
+
+
+# Antigene Selection
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("3.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("4.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("5.bmp")
+
+```
+
+
+
+
+---
+
+<br>
+
+
+# Linker Selection
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("6.bmp")
+
+```
+
+
+---
+
+<br>
+
+
+# 5'UTR Selection
+
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("7.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("8.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("9.bmp")
+
+```
+
+
+---
+
+<br>
+
+
+# 3'UTR Selection
+
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("10.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("11.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("12.bmp")
+
+```
+
+
+
+---
+
+<br>
+
+
+# Polyadenylation Length
+
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("13.bmp")
+
+```
+
+
+
+---
+
+<br>
+
+
+# Restriction Places for Remove
+
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("14.bmp")
+
+```
+
+
+---
+
+<br>
+
+
+# Selection Marker
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("15.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("16.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("17.bmp")
+
+```
+
+---
+
+<br>
+
+
+# Calculations
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("18.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("19.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("20.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("21.bmp")
+
+```
+
+
+---
+
+<br>
+
+
+# Results
+
+
+---
+
+
+## Graphical Map of the Vector
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("22.bmp")
+
+```
+
+---
+
+<br>
+
+
+## FASTA Representation (Segmented)
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("23.bmp")
+
+```
+
+---
+
+<br>
+
+
+## FASTA Representation (Full Sequence)
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("24.bmp")
+
+```
+
+
+---
+
+\
+
+# Disclaimer
+
+The designed therapeutic compounds presented here are solely the result of *in silico* analyses conducted using available databases, computational models, and template-based design approaches.
+
+It should be emphasized that findings obtained through *in silico* methods are predictive in nature and therefore require further experimental validation. Critical confirmation of their actual efficacy, safety, and biological relevance must be achieved through *in vitro* studies, followed by *in vivo* investigations.
+
+Only comprehensive experimental verification can enable a reliable assessment of the true therapeutic potential of the proposed compounds.
+
+---
+
+\

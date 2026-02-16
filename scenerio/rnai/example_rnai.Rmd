@@ -1,0 +1,383 @@
+---
+title: "Silencing vector - Alpha-1 Antitrypsin Deficiency disease"
+output:
+  html_document:
+    theme: flatly       
+    highlight: tango
+    toc: true
+    toc_float: true
+    number_sections: true
+    df_print: paged
+    self_contained: true
+    css: "custom.css"
+---
+
+
+
+
+<br>
+
+# Case Overview
+
+---
+
+**Alpha-1 Antitrypsin Deficiency (AATD)**
+
+Alpha-1 antitrypsin deficiency is a genetic disorder caused by mutations in the *SERPINA1* gene, leading to production of a misfolded alpha-1 antitrypsin protein in hepatocytes.
+The abnormal protein accumulates in liver cells, causing liver inflammation, fibrosis, cirrhosis, and increased risk of hepatocellular carcinoma.
+
+
+
+---
+
+<br>
+
+# Project Overview
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("1.bmp")
+
+```
+
+
+
+---
+
+<br>
+
+# Design Workflow
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("2.bmp")
+
+```
+
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("3.bmp")
+
+```
+
+
+---
+
+<br>
+
+
+# Target Gene Selection for Silencing
+
+
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("4.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("5.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("6.bmp")
+
+```
+
+
+
+---
+
+<br>
+
+
+# Loop Sequence Selection
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("7.bmp")
+
+```
+
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("8.bmp")
+
+```
+
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("9.bmp")
+
+```
+
+---
+
+<br>
+
+
+# Promoter Selection
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("10.1.bmp")
+
+```
+
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("10.bmp")
+
+```
+
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("11.bmp")
+
+```
+
+
+
+
+---
+
+<br>
+
+
+# Selection Marker
+
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("12.1.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("12.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("13.bmp")
+
+```
+
+
+
+---
+
+<br>
+
+# Calculations
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("14.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("15.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("16.bmp")
+
+```
+
+<br>
+
+<div style="text-align:center; font-size:48px; color:#9acd32; margin:20px 0;">
+⬇
+</div>
+
+<br>
+
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("17.bmp")
+
+```
+
+---
+
+<br>
+
+
+# Results
+
+
+---
+
+
+## Graphical Map of the Vector & shRNA
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("18.bmp")
+
+```
+
+---
+
+<br>
+
+
+## FASTA Representation (Segmented)
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("19.bmp")
+
+```
+
+---
+
+<br>
+
+
+## FASTA Representation (Full Sequence)
+
+```{r echo=FALSE, out.width='95%', fig.align='center'}
+
+knitr::include_graphics("20.bmp")
+
+```
+
+
+---
+
+\
+
+# Disclaimer
+
+The designed therapeutic compounds presented here are solely the result of *in silico* analyses conducted using available databases, computational models, and template-based design approaches.
+
+It should be emphasized that findings obtained through *in silico* methods are predictive in nature and therefore require further experimental validation. Critical confirmation of their actual efficacy, safety, and biological relevance must be achieved through *in vitro* studies, followed by *in vivo* investigations.
+
+Only comprehensive experimental verification can enable a reliable assessment of the true therapeutic potential of the proposed compounds.
+
+---
+
+\
