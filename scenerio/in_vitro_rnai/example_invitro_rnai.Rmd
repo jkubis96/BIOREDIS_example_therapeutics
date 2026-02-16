@@ -23,7 +23,7 @@ output:
 
 **Familial Hypercholesterolemia**
 
-An in vitro therapeutic approach for familial hypercholesterolemia may involve the use of T7 promoter-driven *shRNA* to selectively silence PCSK9 expression in cultured hepatocytes. Reduced *PCSK9* levels can increase LDL receptor availability on the cell surface, enhancing cellular uptake of LDL particles. Measuring changes in *PCSK9* expression, receptor abundance, and LDL internalization enables preliminary evaluation of the strategy’s therapeutic potential.
+An *in vitro* therapeutic approach for familial hypercholesterolemia may involve the use of T7 promoter-driven *shRNA* to selectively silence *PCSK9* expression in cultured hepatocytes. Reduced *PCSK9* levels can increase LDL receptor availability on the cell surface, enhancing cellular uptake of LDL particles. Measuring changes in *PCSK9* expression, receptor abundance, and LDL internalization enables preliminary evaluation of the strategy’s therapeutic potential.
 
 
 
