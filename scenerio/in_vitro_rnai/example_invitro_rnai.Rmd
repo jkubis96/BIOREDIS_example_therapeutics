@@ -34,7 +34,7 @@ An *in vitro* therapeutic approach for familial hypercholesterolemia may involve
 # Project Overview
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("1.bmp")
 
@@ -49,7 +49,7 @@ knitr::include_graphics("1.bmp")
 # Design Workflow
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("2.bmp")
 
@@ -67,7 +67,7 @@ knitr::include_graphics("2.bmp")
 
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("3.bmp")
 
@@ -81,7 +81,7 @@ knitr::include_graphics("3.bmp")
 
 <br>
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("4.bmp")
 
@@ -95,7 +95,7 @@ knitr::include_graphics("4.bmp")
 
 <br>
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("5.bmp")
 
@@ -111,7 +111,7 @@ knitr::include_graphics("5.bmp")
 # Loop Sequence Selection
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("6.bmp")
 
@@ -128,7 +128,7 @@ knitr::include_graphics("6.bmp")
 
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("7.bmp")
 
@@ -144,7 +144,7 @@ knitr::include_graphics("7.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("7.2.bmp")
 
@@ -159,7 +159,7 @@ knitr::include_graphics("7.2.bmp")
 
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("8.bmp")
 
@@ -174,7 +174,7 @@ knitr::include_graphics("8.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("9.bmp")
 
@@ -189,7 +189,7 @@ knitr::include_graphics("9.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("10.bmp")
 
@@ -203,7 +203,7 @@ knitr::include_graphics("10.bmp")
 
 # Calculations
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("11.bmp")
 
@@ -218,7 +218,7 @@ knitr::include_graphics("11.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("12.bmp")
 
@@ -233,7 +233,7 @@ knitr::include_graphics("12.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("13.bmp")
 
@@ -248,7 +248,7 @@ knitr::include_graphics("13.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("14.bmp")
 
@@ -267,7 +267,7 @@ knitr::include_graphics("14.bmp")
 
 ## Graphical Map of the Vector & shRNA
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("15.bmp")
 
@@ -280,7 +280,7 @@ knitr::include_graphics("15.bmp")
 
 ## FASTA Representation (Segmented)
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("16.bmp")
 
@@ -293,7 +293,7 @@ knitr::include_graphics("16.bmp")
 
 ## FASTA Representation (Full Sequence)
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("17.bmp")
 

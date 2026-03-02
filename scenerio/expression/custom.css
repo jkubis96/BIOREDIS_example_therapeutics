@@ -1,0 +1,7 @@
+.tocify .tocify-item > span:first-child::after {
+  content: ".";
+}
+
+.header-section-number::after {
+  content: ".";
+}

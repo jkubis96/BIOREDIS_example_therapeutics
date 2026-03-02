@@ -34,7 +34,7 @@ Nipah virus infection is a zoonotic disease caused by an RNA(-) virus of the gen
 # Project Overview
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("1.bmp")
 
@@ -49,7 +49,7 @@ knitr::include_graphics("1.bmp")
 # Design Workflow
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("2.bmp")
 
@@ -62,7 +62,7 @@ knitr::include_graphics("2.bmp")
 # Antigene Selection
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("3.bmp")
 
@@ -76,7 +76,7 @@ knitr::include_graphics("3.bmp")
 
 <br>
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("4.bmp")
 
@@ -90,7 +90,7 @@ knitr::include_graphics("4.bmp")
 
 <br>
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("5.bmp")
 
@@ -107,7 +107,7 @@ knitr::include_graphics("5.bmp")
 # Linker Selection
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("6.bmp")
 
@@ -123,7 +123,7 @@ knitr::include_graphics("6.bmp")
 
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("7.bmp")
 
@@ -138,7 +138,7 @@ knitr::include_graphics("7.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("8.bmp")
 
@@ -153,7 +153,7 @@ knitr::include_graphics("8.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("9.bmp")
 
@@ -169,7 +169,7 @@ knitr::include_graphics("9.bmp")
 
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("10.bmp")
 
@@ -184,7 +184,7 @@ knitr::include_graphics("10.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("11.bmp")
 
@@ -199,7 +199,7 @@ knitr::include_graphics("11.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("12.bmp")
 
@@ -216,7 +216,7 @@ knitr::include_graphics("12.bmp")
 
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("13.bmp")
 
@@ -233,7 +233,7 @@ knitr::include_graphics("13.bmp")
 
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("14.bmp")
 
@@ -247,7 +247,7 @@ knitr::include_graphics("14.bmp")
 
 # Selection Marker
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("15.bmp")
 
@@ -262,7 +262,7 @@ knitr::include_graphics("15.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("16.bmp")
 
@@ -277,7 +277,7 @@ knitr::include_graphics("16.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("17.bmp")
 
@@ -290,7 +290,7 @@ knitr::include_graphics("17.bmp")
 
 # Calculations
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("18.bmp")
 
@@ -305,7 +305,7 @@ knitr::include_graphics("18.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("19.bmp")
 
@@ -320,7 +320,7 @@ knitr::include_graphics("19.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("20.bmp")
 
@@ -335,7 +335,7 @@ knitr::include_graphics("20.bmp")
 <br>
 
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("21.bmp")
 
@@ -355,7 +355,7 @@ knitr::include_graphics("21.bmp")
 
 ## Graphical Map of the Vector
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("22.bmp")
 
@@ -368,7 +368,7 @@ knitr::include_graphics("22.bmp")
 
 ## FASTA Representation (Segmented)
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("23.bmp")
 
@@ -381,7 +381,7 @@ knitr::include_graphics("23.bmp")
 
 ## FASTA Representation (Full Sequence)
 
-```{r echo=FALSE, out.width='95%', fig.align='center'}
+```{r echo=FALSE, out.width='90%', fig.align='center'}
 
 knitr::include_graphics("24.bmp")
 
