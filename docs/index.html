@@ -70,6 +70,17 @@
       height: 300px
     }
 
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 28px;
+      }
+
+      .card {
+        padding: 15px;
+        min-height: auto;
+      }
+    }
+
     .card:hover {
       transform: translateY(-5px);
       box-shadow: 0 12px 28px rgba(0,0,0,0.1);
@@ -116,8 +127,10 @@
   strategies based on <em>in vitro</em> transcription, including the design of <em>mRNA</em> vaccines,
   as well as applications in <em>in vivo</em> systems.
 </p>
+
+  <div class="grid">
+
   <a href="www/example_expression.html" style="text-decoration:none; color:inherit;">
-    <div class="grid">
       <div class="card" id="expression-vector">
         <img src="images/expression.bmp" alt="expression-vector" />
         <h3>Expression vector</h3>
